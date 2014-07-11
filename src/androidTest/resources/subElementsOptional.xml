@@ -1,0 +1,20 @@
+<root>
+	<item id="1">
+		<title>Alice au pays des merveilles</title>
+		<lastModified>04/01/1970</lastModified>
+		<author>
+			<name>Lewis Carroll</name>
+		</author>
+	</item>
+	<item id="2">
+		<title>L'ile au tresor</title>
+		<lastModified>04/01/1971</lastModified>
+		<author>
+			<dateOfBirth>13/11/1850</dateOfBirth>
+		</author>
+	</item>
+	<item id="3">
+		<title>L'homme invisible</title>
+		<lastModified>04/01/1972</lastModified>
+	</item>
+</root>

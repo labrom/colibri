@@ -1,0 +1,13 @@
+<root>
+	<item id="1" title="Alice au pays des merveilles" lastModified="04/01/1970">
+	    <a/>
+	    <b>b</b>
+	</item>
+	<item id="2" title="L'ile au tresor" lastModified="04/01/1971">
+        <a a="a">
+            <aa aa="aa">aa</aa>
+            <aa aa="aa">aa</aa>
+        </a>
+        <b>b</b>
+	</item>
+</root>

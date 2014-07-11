@@ -1,0 +1,18 @@
+<root>
+	<item id="1">
+		<title>Alice au pays des merveilles</title>
+		<lastModified>04/01/1970</lastModified>
+		<author>
+			<name>Lewis Carroll</name>
+			<dateOfBirth>27/01/1832</dateOfBirth>
+		</author>
+	</item>
+	<item id="2">
+		<title>L'ile au tresor</title>
+		<lastModified>04/01/1971</lastModified>
+		<author>
+			<name>Robert Louis Stevenson</name>
+			<dateOfBirth>13/11/1850</dateOfBirth>
+		</author>
+	</item>
+</root>

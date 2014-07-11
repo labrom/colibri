@@ -1,0 +1,14 @@
+<root>
+	<item id="1">
+		<title>Alice au pays des merveilles</title>
+		<date>
+			<lastModified>04/01/1970</lastModified>
+		</date>
+	</item>
+	<item id="2">
+		<title>L'ile au tresor</title>
+		<date>
+			<lastModified>04/01/1971</lastModified>
+		</date>
+	</item>
+</root>

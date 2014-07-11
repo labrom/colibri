@@ -1,0 +1,35 @@
+<root>
+	<a>
+		<b>b</b>
+		<b>b</b>
+		<b>b</b>
+	</a>
+	<item id="1">
+		<title>Alice au pays des merveilles</title>
+		<lastModified>04/01/1970</lastModified>
+	</item>
+	<a>
+		<b>b</b>
+		<b>b</b>
+		<b>b</b>
+	</a>
+	<c>
+		<d>d</d>
+		<d>d</d>
+		<d>d</d>
+	</c>
+	<item id="2">
+		<title>L'ile au tresor</title>
+		<lastModified>04/01/1971</lastModified>
+	</item>
+	<a>
+		<b>b</b>
+		<b>b</b>
+		<b>b</b>
+	</a>
+	<a>
+		<b>b</b>
+		<b>b</b>
+		<b>b</b>
+	</a>
+</root>
